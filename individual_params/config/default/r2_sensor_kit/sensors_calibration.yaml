@@ -1,1 +1,20 @@
+#AHMAAD
+# base_link:
+#   sensor_kit_base_link:
+#     x: 0.12
+#     y: 0.0
+#     z: 0.13
+#     roll: 0.0
+#     pitch: 0.0
+#     yaw: 0.0
 
+
+
+base_link:
+  sensor_kit_base_link:
+    x: 0.12
+    y: 0.0
+    z: 0.25 # 0.22 (or 0.21) + 0.03 
+    roll: 0.0
+    pitch: 0.0
+    yaw: 0.0
